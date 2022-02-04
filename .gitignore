@@ -4,3 +4,4 @@ data_preprocessing/__pycache__
 build_model.ipynb
 new.ipynb
 to_try.csv
+.DS_Store
